@@ -9,10 +9,8 @@ profile:
   image: prof_pic_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>HSB J135</p>
-    <p>1959 NE Pacific St.</p>
-    <p>Box 357360</p>
-    <p>Seattle, WA 98195</p>
+    <p> westf [at] uw [dot] edu </p>
+    <p>HSB J135<br>1959 NE Pacific St.<br>Box 357360<br>Seattle, WA 98195</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
