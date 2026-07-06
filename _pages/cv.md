@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
+title: cv
 nav: true
 nav_order: 5
 ---
@@ -10,7 +10,7 @@ nav_order: 5
   <article>
     <p>
       <a class="btn btn-outline-secondary" href="{{ '/assets/pdf/CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-        Download my CV (PDF)
+        Download my CV (PDF).
       </a>
     </p>
   </article>
