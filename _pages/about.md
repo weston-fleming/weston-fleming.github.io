@@ -29,6 +29,3 @@ latest_posts:
 ---
 
 Postdoctoral scientist in the labs of Garret Stuber and Richard Palmiter (HHMI / University of Washington) studying the neurobiology of learning.
-
-(https://x.com/westonfleming)
-(https://bsky.app/profile/westonfleming.bsky.social)
