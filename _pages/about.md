@@ -28,4 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Postdoctoral scientist in the labs of Garret Stuber and Richard Palmiter (HHMI / University of Washington) studying the neurobiology of learning.
+Postdoctoral scientist in the labs of Garret Stuber and Richard Palmiter studying the neurobiology of learning.
