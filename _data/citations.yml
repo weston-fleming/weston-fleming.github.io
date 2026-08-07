@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-07'
 papers:
   TTBZ-SwAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Ethanol Withdrawal in Adolescent and Adult Rats
     year: '2015'
   TTBZ-SwAAAAJ:9yKSN-GCB0IC:
-    citations: 642
+    citations: 643
     title: Specialized coding of sensory, motor and cognitive variables in VTA dopamine neurons
     year: '2019'
   TTBZ-SwAAAAJ:IjCSPb-OGe4C:
-    citations: 37
+    citations: 38
     title: Inferring spikes from calcium imaging in dopamine neurons
     year: '2021'
   TTBZ-SwAAAAJ:LkGwnXOMwfcC:
-    citations: 15
+    citations: 18
     title: Opioid-driven disruption of the septum reveals a role for neurotensin-expressing neurons in withdrawal
     year: '2025'
   TTBZ-SwAAAAJ:Se3iqnhoufwC:
@@ -22,11 +22,11 @@ papers:
     title: A cholinergic eligibility trace facilitates amygdala plasticity in flavour avoidance learning
     year: '2026'
   TTBZ-SwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 25
+    citations: 26
     title: Perineuronal nets in the dorsomedial striatum contribute to behavioral dysfunction in mouse models of excessive repetitive behavior
     year: '2022'
   TTBZ-SwAAAAJ:UeHWp8X0CEIC:
-    citations: 35
+    citations: 36
     title: A comparison of dopaminergic and cholinergic populations reveals unique contributions of VTA dopamine neurons to short-term memory
     year: '2020'
   TTBZ-SwAAAAJ:W7OEmFMy1HYC:
@@ -34,11 +34,11 @@ papers:
     title: Measurement and Manipulation of Subcortical Neuromodulatory Populations during Reward Learning
     year: '2022'
   TTBZ-SwAAAAJ:WF5omc3nYNoC:
-    citations: 49
+    citations: 48
     title: A neural substrate of sex-dependent modulation of motivation
     year: '2023'
   TTBZ-SwAAAAJ:Y0pCki6q_DkC:
-    citations: 28
+    citations: 29
     title: Cholinergic interneurons mediate cocaine extinction in male mice through plasticity across medium spiny neuron subtypes
     year: '2022'
   TTBZ-SwAAAAJ:d1gkVwhDpl0C:
@@ -50,13 +50,9 @@ papers:
     title: Independent inhibitory control mechanisms for aggressive motivation and action
     year: '2024'
   TTBZ-SwAAAAJ:qjMakFHDy7sC:
-    citations: 127
+    citations: 130
     title: Distinct signals in medial and lateral VTA dopamine neurons modulate fear extinction at different times
     year: '2020'
-  TTBZ-SwAAAAJ:roLk4NBRz8UC:
-    citations: 0
-    title: Specialized and spatially organized coding of sensory, motor, and cognitive variables in midbrain dopamine neurons
-    year: Unknown Year
   TTBZ-SwAAAAJ:u5HHmVD_uO8C:
     citations: 0
     title: Ethanol Withdrawal in Adolescent and Adult Rat
